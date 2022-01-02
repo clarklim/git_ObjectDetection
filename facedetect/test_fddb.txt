@@ -1,0 +1,836 @@
+./fddb/originalPics/2002/07/19/big/img_372.jpg 147,42,207,142,0 230,79,274,138,0
+./fddb/originalPics/2002/09/01/big/img_16867.jpg 190,86,281,210,0
+./fddb/originalPics/2002/07/24/big/img_130.jpg 136,140,217,273,0
+./fddb/originalPics/2002/07/30/big/img_80.jpg 98,75,236,287,0
+./fddb/originalPics/2002/08/03/big/img_667.jpg 185,28,267,161,0
+./fddb/originalPics/2002/08/17/big/img_312.jpg 363,32,427,147,0 69,96,161,215,0
+./fddb/originalPics/2002/07/24/big/img_834.jpg 52,27,269,402,0
+./fddb/originalPics/2003/01/15/big/img_496.jpg 181,21,285,193,0
+./fddb/originalPics/2002/07/29/big/img_552.jpg 114,28,168,117,0
+./fddb/originalPics/2002/08/27/big/img_19908.jpg 93,77,163,188,0 286,77,356,188,0
+./fddb/originalPics/2002/08/04/big/img_552.jpg 93,16,199,192,0
+./fddb/originalPics/2003/01/13/big/img_491.jpg 108,35,226,213,0
+./fddb/originalPics/2002/07/30/big/img_1051.jpg 37,32,123,156,0 160,10,214,103,0 265,61,304,120,0 321,68,352,113,0 363,98,379,121,0 370,81,384,101,0 433,95,445,112,0
+./fddb/originalPics/2003/01/14/big/img_321.jpg 79,21,183,200,0 210,68,320,234,0
+./fddb/originalPics/2002/08/13/big/img_843.jpg 51,117,85,164,0 69,114,122,183,0 170,52,203,103,0 272,89,321,159,0 311,118,389,217,0 374,113,406,156,0
+./fddb/originalPics/2002/07/28/big/img_503.jpg 96,84,162,185,0 209,39,350,262,0
+./fddb/originalPics/2003/01/14/big/img_719.jpg 87,22,229,238,0
+./fddb/originalPics/2002/08/02/big/img_709.jpg 74,32,140,137,0 280,43,344,146,0
+./fddb/originalPics/2002/08/08/big/img_498.jpg 101,57,231,245,0
+./fddb/originalPics/2002/08/11/big/img_683.jpg 49,0,289,346,0
+./fddb/originalPics/2002/08/05/big/img_3633.jpg 45,48,176,245,0 316,91,430,233,0
+./fddb/originalPics/2003/01/14/big/img_697.jpg 89,46,218,234,0
+./fddb/originalPics/2002/08/16/big/img_645.jpg 71,26,164,174,0
+./fddb/originalPics/2002/08/23/big/img_338.jpg 57,30,222,260,0
+./fddb/originalPics/2002/08/26/big/img_20130.jpg 120,22,185,131,0
+./fddb/originalPics/2002/08/20/big/img_555.jpg 101,61,221,261,0
+./fddb/originalPics/2002/08/15/big/img_1108.jpg 16,64,258,419,0
+./fddb/originalPics/2002/08/05/big/img_3765.jpg 65,38,129,127,0 325,10,402,108,0 395,74,432,125,0
+./fddb/originalPics/2002/08/26/big/img_213.jpg 11,210,47,265,0 64,157,98,201,0 204,177,232,219,0 123,99,199,231,0
+./fddb/originalPics/2002/07/28/big/img_78.jpg 171,64,266,215,0
+./fddb/originalPics/2002/08/15/big/img_1209.jpg 9,132,79,241,0 167,137,246,255,0 280,185,296,210,0
+./fddb/originalPics/2002/08/07/big/img_1970.jpg 76,31,196,199,0
+./fddb/originalPics/2002/08/26/big/img_537.jpg 173,50,247,165,0 324,132,397,242,0
+./fddb/originalPics/2002/08/26/big/img_235.jpg 109,26,187,148,0 311,42,364,119,0
+./fddb/originalPics/2002/07/26/big/img_531.jpg 248,83,347,240,0
+./fddb/originalPics/2002/08/21/big/img_610.jpg 169,27,292,236,0
+./fddb/originalPics/2002/08/06/big/img_3012.jpg 148,39,203,126,0 7,109,33,148,0 181,16,275,166,0 330,55,410,183,0
+./fddb/originalPics/2002/07/29/big/img_892.jpg 148,62,201,143,0
+./fddb/originalPics/2002/08/31/big/img_17967.jpg 32,8,270,370,0
+./fddb/originalPics/2002/07/27/big/img_553.jpg 39,23,250,311,0
+./fddb/originalPics/2002/08/23/big/img_789.jpg 98,19,221,228,0
+./fddb/originalPics/2002/08/19/big/img_738.jpg 13,92,96,216,0 64,45,150,191,0 203,74,307,210,0
+./fddb/originalPics/2002/08/28/big/img_19239.jpg 49,44,249,343,0
+./fddb/originalPics/2003/01/16/big/img_915.jpg 133,30,231,184,0
+./fddb/originalPics/2003/01/01/big/img_326.jpg 77,14,255,304,0
+./fddb/originalPics/2003/01/16/big/img_65.jpg 39,39,164,226,0 217,72,316,214,0 306,153,360,230,0
+./fddb/originalPics/2002/08/02/big/img_662.jpg 151,18,220,132,0
+./fddb/originalPics/2003/01/13/big/img_387.jpg 81,22,179,150,0
+./fddb/originalPics/2002/07/23/big/img_539.jpg 125,27,330,323,0 16,115,185,331,0
+./fddb/originalPics/2002/08/09/big/img_562.jpg 125,43,242,221,0
+./fddb/originalPics/2002/08/14/big/img_997.jpg 82,43,184,179,0 272,76,359,209,0
+./fddb/originalPics/2003/01/16/big/img_754.jpg 89,22,160,132,0 229,50,282,130,0
+./fddb/originalPics/2002/08/21/big/img_767.jpg 84,24,185,164,0
+./fddb/originalPics/2002/07/26/big/img_432.jpg 163,33,274,193,0
+./fddb/originalPics/2002/08/10/big/img_719.jpg 64,30,242,286,0
+./fddb/originalPics/2002/07/24/big/img_824.jpg 123,14,244,184,0
+./fddb/originalPics/2003/01/14/big/img_105.jpg 102,37,207,201,0
+./fddb/originalPics/2002/08/01/big/img_3.jpg 85,36,146,123,0 187,56,249,153,0 196,8,262,105,0
+./fddb/originalPics/2003/01/13/big/img_818.jpg 124,30,230,201,0
+./fddb/originalPics/2002/07/22/big/img_469.jpg 88,135,199,306,0
+./fddb/originalPics/2002/08/20/big/img_911.jpg 125,16,252,207,0
+./fddb/originalPics/2002/08/13/big/img_965.jpg 99,42,183,156,0 264,11,341,126,0
+./fddb/originalPics/2002/08/23/big/img_305.jpg 142,32,243,181,0 275,28,374,175,0
+./fddb/originalPics/2003/01/14/big/img_649.jpg 197,8,346,253,0
+./fddb/originalPics/2002/07/31/big/img_39.jpg 187,33,267,155,0
+./fddb/originalPics/2002/08/07/big/img_1254.jpg 196,40,298,193,0
+./fddb/originalPics/2002/08/07/big/img_1819.jpg 141,75,201,171,0 284,13,358,129,0
+./fddb/originalPics/2002/08/01/big/img_1734.jpg 194,53,280,202,0
+./fddb/originalPics/2002/08/14/big/img_733.jpg 157,22,228,133,0
+./fddb/originalPics/2003/01/15/big/img_582.jpg 99,80,187,209,0
+./fddb/originalPics/2002/08/15/big/img_879.jpg 37,21,200,258,0 150,86,353,374,0
+./fddb/originalPics/2002/08/21/big/img_662.jpg 86,26,125,81,0 117,76,173,160,0 195,51,204,65,0 214,59,225,76,0 324,20,370,81,0 258,95,318,191,0 295,91,340,150,0 431,41,442,57,0
+./fddb/originalPics/2003/01/13/big/img_432.jpg 115,13,193,135,0
+./fddb/originalPics/2002/07/31/big/img_519.jpg 120,32,258,231,0
+./fddb/originalPics/2003/01/14/big/img_911.jpg 73,27,246,288,0
+./fddb/originalPics/2002/07/19/big/img_130.jpg 116,34,181,137,0
+./fddb/originalPics/2002/09/02/big/img_15234.jpg 127,20,215,169,0
+./fddb/originalPics/2003/01/14/big/img_117.jpg 99,25,209,197,0
+./fddb/originalPics/2002/08/21/big/img_470.jpg 68,91,145,199,0 251,116,314,207,0
+./fddb/originalPics/2002/08/27/big/img_19964.jpg 178,24,291,181,0
+./fddb/originalPics/2003/01/15/big/img_390.jpg 292,21,403,204,0 84,26,209,208,0
+./fddb/originalPics/2002/08/17/big/img_961.jpg 15,118,85,230,0 142,21,226,149,0 267,12,361,141,0
+./fddb/originalPics/2002/08/13/big/img_431.jpg 92,26,232,223,0
+./fddb/originalPics/2003/01/17/big/img_555.jpg 56,25,236,302,0
+./fddb/originalPics/2002/07/27/big/img_185.jpg 82,170,142,269,0 227,80,287,173,0 147,31,206,112,0
+./fddb/originalPics/2002/07/22/big/img_306.jpg 119,31,205,156,0
+./fddb/originalPics/2002/08/14/big/img_116.jpg 191,20,277,154,0
+./fddb/originalPics/2002/08/14/big/img_422.jpg 70,10,164,158,0
+./fddb/originalPics/2002/08/20/big/img_287.jpg 47,26,252,348,0
+./fddb/originalPics/2002/07/30/big/img_310.jpg 88,90,142,173,0
+./fddb/originalPics/2003/01/15/big/img_267.jpg 0,15,191,305,0
+./fddb/originalPics/2002/08/27/big/img_19719.jpg 68,73,132,167,0 320,5,398,137,0
+./fddb/originalPics/2002/08/07/big/img_1456.jpg 50,26,176,219,0
+./fddb/originalPics/2002/08/04/big/img_444.jpg 139,53,226,199,0
+./fddb/originalPics/2002/07/19/big/img_352.jpg 74,9,240,256,0 235,100,380,301,0
+./fddb/originalPics/2002/07/27/big/img_981.jpg 127,16,225,179,0 257,182,340,316,0
+./fddb/originalPics/2002/08/24/big/img_444.jpg 89,52,257,295,0 20,152,61,210,0 265,118,305,172,0
+./fddb/originalPics/2002/08/12/big/img_498.jpg 91,46,159,150,0 152,14,212,84,0 188,58,249,149,0 275,69,326,150,0 308,70,379,164,0
+./fddb/originalPics/2002/08/06/big/img_2470.jpg 67,13,177,175,0
+./fddb/originalPics/2003/01/13/big/img_726.jpg 70,50,126,118,0 260,51,322,135,0
+./fddb/originalPics/2002/08/06/big/img_2683.jpg 2,112,104,275,0 87,46,171,180,0 324,23,409,155,0
+./fddb/originalPics/2002/07/24/big/img_373.jpg 39,12,102,96,0 178,21,224,85,0 350,14,405,90,0 243,71,269,109,0 278,83,300,112,0
+./fddb/originalPics/2002/08/09/big/img_808.jpg 107,26,184,132,0 274,20,342,116,0
+./fddb/originalPics/2002/08/18/big/img_76.jpg 60,43,181,217,0 217,215,344,408,0
+./fddb/originalPics/2002/08/22/big/img_612.jpg 188,65,412,391,0
+./fddb/originalPics/2002/08/21/big/img_254.jpg 34,39,254,368,0
+./fddb/originalPics/2002/07/27/big/img_953.jpg 89,5,157,95,0 283,14,347,102,0
+./fddb/originalPics/2002/08/19/big/img_811.jpg 21,54,120,211,0 209,30,308,208,0
+./fddb/originalPics/2002/08/19/big/img_806.jpg 119,16,210,149,0
+./fddb/originalPics/2002/08/02/big/img_1105.jpg 47,27,241,337,0
+./fddb/originalPics/2003/01/14/big/img_447.jpg 140,92,215,219,0
+./fddb/originalPics/2002/08/27/big/img_19693.jpg 51,9,135,121,0 110,31,200,165,0 308,35,382,155,0
+./fddb/originalPics/2002/08/01/big/img_1311.jpg 116,13,187,127,0
+./fddb/originalPics/2002/08/23/big/img_482.jpg 110,15,204,157,0
+./fddb/originalPics/2002/07/25/big/img_407.jpg 94,31,260,271,0
+./fddb/originalPics/2002/07/22/big/img_217.jpg 176,17,294,199,0
+./fddb/originalPics/2003/01/16/big/img_894.jpg 86,18,181,168,0 145,62,219,173,0
+./fddb/originalPics/2002/07/29/big/img_1306.jpg 109,62,199,202,0
+./fddb/originalPics/2002/08/10/big/img_157.jpg 102,50,181,169,0 268,26,344,143,0
+./fddb/originalPics/2002/08/02/big/img_261.jpg 100,30,164,132,0
+./fddb/originalPics/2002/08/22/big/img_613.jpg 93,26,216,232,0
+./fddb/originalPics/2003/01/16/big/img_33.jpg 70,15,178,172,0 235,42,331,195,0
+./fddb/originalPics/2002/08/20/big/img_609.jpg 23,89,180,323,0 250,3,397,238,0
+./fddb/originalPics/2002/08/29/big/img_18956.jpg 59,51,136,167,0 195,26,260,136,0 322,29,390,137,0
+./fddb/originalPics/2003/01/14/big/img_479.jpg 69,28,233,273,0
+./fddb/originalPics/2002/07/21/big/img_479.jpg 241,19,320,155,0
+./fddb/originalPics/2002/07/29/big/img_918.jpg 305,10,375,117,0
+./fddb/originalPics/2002/08/26/big/img_723.jpg 54,25,176,216,0 225,81,342,266,0
+./fddb/originalPics/2003/01/15/big/img_622.jpg 36,28,161,223,0 234,34,365,235,0
+./fddb/originalPics/2002/07/22/big/img_766.jpg 54,38,250,372,0
+./fddb/originalPics/2002/08/20/big/img_382.jpg 65,16,262,341,0
+./fddb/originalPics/2003/01/01/big/img_547.jpg 87,17,233,251,0
+./fddb/originalPics/2003/01/14/big/img_739.jpg 89,60,153,165,0 276,13,348,114,0
+./fddb/originalPics/2002/07/25/big/img_755.jpg 52,84,117,177,0 230,21,306,128,0
+./fddb/originalPics/2002/08/15/big/img_550.jpg 276,33,374,198,0
+./fddb/originalPics/2002/08/29/big/img_18718.jpg 158,76,271,248,0 237,49,323,171,0
+./fddb/originalPics/2002/08/04/big/img_42.jpg 115,9,203,146,0
+./fddb/originalPics/2002/08/21/big/img_410.jpg 138,22,245,174,0
+./fddb/originalPics/2002/08/26/big/img_249.jpg 4,19,160,241,0
+./fddb/originalPics/2002/08/01/big/img_1549.jpg 100,29,244,247,0
+./fddb/originalPics/2003/01/17/big/img_864.jpg 135,24,202,123,0
+./fddb/originalPics/2002/08/17/big/img_997.jpg 103,34,213,198,0
+./fddb/originalPics/2002/08/22/big/img_798.jpg 143,29,266,223,0 46,282,128,369,0
+./fddb/originalPics/2003/01/15/big/img_795.jpg 34,21,250,348,0
+./fddb/originalPics/2002/07/22/big/img_642.jpg 26,119,60,166,0 93,23,170,135,0
+./fddb/originalPics/2002/07/25/big/img_621.jpg 3,84,81,197,0 75,121,153,243,0 136,16,260,195,0 280,30,338,113,0 333,21,405,119,0 250,7,301,78,0
+./fddb/originalPics/2002/07/19/big/img_255.jpg 71,41,231,239,0 16,8,92,113,0
+./fddb/originalPics/2002/08/05/big/img_3371.jpg 66,25,327,428,0
+./fddb/originalPics/2003/01/13/big/img_630.jpg 125,67,251,259,0
+./fddb/originalPics/2002/09/01/big/img_16488.jpg 111,19,181,134,0
+./fddb/originalPics/2002/07/30/big/img_182.jpg 133,12,227,179,0
+./fddb/originalPics/2002/08/21/big/img_695.jpg 125,18,199,120,0
+./fddb/originalPics/2003/01/16/big/img_966.jpg 53,0,148,137,0
+./fddb/originalPics/2002/07/26/big/img_194.jpg 120,20,184,124,0
+./fddb/originalPics/2002/07/24/big/img_441.jpg 309,38,389,165,0 78,39,198,206,0 211,187,233,213,0
+./fddb/originalPics/2002/08/06/big/img_3002.jpg 176,15,266,171,0 257,68,353,212,0
+./fddb/originalPics/2002/08/14/big/img_198.jpg 115,42,216,209,0
+./fddb/originalPics/2002/08/04/big/img_873.jpg 75,138,230,374,0
+./fddb/originalPics/2002/08/02/big/img_51.jpg 88,36,233,297,0
+./fddb/originalPics/2002/08/23/big/img_398.jpg 99,208,234,397,0
+./fddb/originalPics/2003/01/16/big/img_294.jpg 47,41,109,144,0 166,32,227,119,0 2,139,47,200,0
+./fddb/originalPics/2002/07/21/big/img_497.jpg 26,91,82,175,0 118,88,181,181,0 184,150,247,236,0 213,16,280,116,0 287,54,340,144,0 189,43,223,105,0
+./fddb/originalPics/2002/07/29/big/img_661.jpg 84,32,173,179,0
+./fddb/originalPics/2002/08/07/big/img_1691.jpg 131,41,270,271,0
+./fddb/originalPics/2002/08/05/big/img_3550.jpg 181,16,245,121,0
+./fddb/originalPics/2002/08/22/big/img_523.jpg 38,168,167,374,0
+./fddb/originalPics/2002/08/06/big/img_2369.jpg 36,156,116,277,0 131,15,207,133,0 251,99,334,228,0 336,45,414,152,0
+./fddb/originalPics/2002/08/12/big/img_374.jpg 78,40,175,197,0 258,73,324,183,0
+./fddb/originalPics/2002/09/01/big/img_16591.jpg 57,105,116,189,0 210,111,273,201,0
+./fddb/originalPics/2002/08/15/big/img_795.jpg 66,100,138,200,0 150,126,174,157,0 224,115,239,142,0 5,114,15,129,0 26,141,40,158,0 34,142,50,159,0 188,137,203,158,0 165,120,185,142,0 197,125,209,140,0 285,125,300,147,0 337,108,362,145,0 359,77,397,134,0
+./fddb/originalPics/2002/07/25/big/img_491.jpg 54,53,275,396,0
+./fddb/originalPics/2002/08/21/big/img_643.jpg 119,111,178,205,0 259,123,326,224,0
+./fddb/originalPics/2002/07/30/big/img_171.jpg 226,9,302,112,0
+./fddb/originalPics/2002/08/01/big/img_2108.jpg 70,37,226,300,0
+./fddb/originalPics/2002/08/22/big/img_249.jpg 78,9,189,194,0
+./fddb/originalPics/2002/08/28/big/img_19235.jpg 36,88,95,175,0 166,27,244,165,0
+./fddb/originalPics/2002/07/29/big/img_626.jpg 202,7,393,297,0
+./fddb/originalPics/2002/08/08/big/img_471.jpg 6,0,195,286,0
+./fddb/originalPics/2002/08/31/big/img_17968.jpg 43,74,137,240,0
+./fddb/originalPics/2002/08/07/big/img_1686.jpg 66,41,236,325,0
+./fddb/originalPics/2002/07/30/big/img_886.jpg 94,44,214,255,0
+./fddb/originalPics/2002/08/09/big/img_839.jpg 39,27,268,362,0
+./fddb/originalPics/2002/07/31/big/img_412.jpg 90,28,217,245,0
+./fddb/originalPics/2002/07/19/big/img_367.jpg 76,5,213,209,0
+./fddb/originalPics/2002/08/12/big/img_331.jpg 174,84,213,138,0 245,36,292,104,0 253,161,295,225,0
+./fddb/originalPics/2002/07/25/big/img_192.jpg 136,23,251,198,0
+./fddb/originalPics/2003/01/13/big/img_539.jpg 117,15,201,138,0
+./fddb/originalPics/2002/09/02/big/img_15197.jpg 162,13,253,164,0 110,35,157,99,0 271,76,325,151,0
+./fddb/originalPics/2002/07/27/big/img_1008.jpg 113,14,190,132,0
+./fddb/originalPics/2002/08/01/big/img_1634.jpg 101,42,174,165,0 196,57,301,209,0 308,24,380,141,0
+./fddb/originalPics/2002/08/21/big/img_879.jpg 76,58,148,184,0 183,88,250,196,0 126,0,177,93,0 203,40,246,112,0
+./fddb/originalPics/2002/08/15/big/img_1029.jpg 95,177,176,284,0
+./fddb/originalPics/2002/07/29/big/img_460.jpg 48,13,139,178,0 230,131,314,267,0 250,53,334,182,0
+./fddb/originalPics/2002/08/25/big/img_205.jpg 82,28,160,161,0
+./fddb/originalPics/2002/08/18/big/img_419.jpg 28,156,104,266,0 121,40,181,132,0 201,80,293,206,0
+./fddb/originalPics/2002/08/29/big/img_18620.jpg 111,19,180,119,0
+./fddb/originalPics/2002/08/05/big/img_3672.jpg 109,101,171,198,0
+./fddb/originalPics/2002/08/06/big/img_3024.jpg 64,25,192,226,0
+./fddb/originalPics/2002/08/07/big/img_1773.jpg 103,15,208,166,0
+./fddb/originalPics/2002/08/12/big/img_426.jpg 263,8,406,223,0
+./fddb/originalPics/2002/08/18/big/img_484.jpg 58,87,144,206,0 195,103,264,209,0 305,24,414,189,0 243,71,293,136,0 180,47,244,141,0 402,98,449,159,0 31,123,54,153,0
+./fddb/originalPics/2002/07/29/big/img_758.jpg 170,15,250,140,0
+./fddb/originalPics/2002/07/30/big/img_484.jpg 66,27,234,271,0
+./fddb/originalPics/2002/08/04/big/img_874.jpg 116,13,189,124,0
+./fddb/originalPics/2002/08/12/big/img_193.jpg 276,87,368,221,0
+./fddb/originalPics/2002/07/25/big/img_595.jpg 176,21,280,168,0
+./fddb/originalPics/2002/07/19/big/img_392.jpg 185,22,267,146,0
+./fddb/originalPics/2002/07/26/big/img_339.jpg 174,39,270,193,0
+./fddb/originalPics/2002/08/21/big/img_265.jpg 30,32,238,384,0
+./fddb/originalPics/2002/08/22/big/img_466.jpg 70,52,199,230,0
+./fddb/originalPics/2002/07/31/big/img_49.jpg 150,36,333,289,0 258,96,430,354,0
+./fddb/originalPics/2002/08/31/big/img_17365.jpg 139,16,221,137,0
+./fddb/originalPics/2002/08/06/big/img_2997.jpg 55,43,247,335,0
+./fddb/originalPics/2003/01/16/big/img_630.jpg 62,12,235,278,0
+./fddb/originalPics/2003/01/15/big/img_404.jpg 55,124,174,307,0
+./fddb/originalPics/2002/07/29/big/img_481.jpg 299,37,358,137,0 134,101,187,180,0
+./fddb/originalPics/2002/08/18/big/img_426.jpg 156,27,262,194,0
+./fddb/originalPics/2002/08/31/big/img_17509.jpg 81,35,317,364,0
+./fddb/originalPics/2002/07/23/big/img_360.jpg 71,24,309,377,0
+./fddb/originalPics/2002/08/18/big/img_698.jpg 57,32,136,172,0 167,77,243,191,0 298,4,367,125,0
+./fddb/originalPics/2003/01/14/big/img_1055.jpg 85,43,186,193,0
+./fddb/originalPics/2002/08/16/big/img_1070.jpg 104,17,210,196,0
+./fddb/originalPics/2002/07/27/big/img_735.jpg 47,48,207,290,0 229,47,373,276,0
+./fddb/originalPics/2002/07/26/big/img_651.jpg 167,59,276,234,0
+./fddb/originalPics/2002/07/30/big/img_78.jpg 93,26,243,258,0
+./fddb/originalPics/2002/07/28/big/img_416.jpg 53,21,142,143,0 285,10,356,116,0 346,79,382,127,0
+./fddb/originalPics/2002/08/03/big/img_328.jpg 71,228,200,435,0
+./fddb/originalPics/2002/08/18/big/img_538.jpg 106,21,209,155,0 267,22,352,160,0
+./fddb/originalPics/2003/01/15/big/img_223.jpg 68,34,234,326,0
+./fddb/originalPics/2002/07/23/big/img_541.jpg 71,39,237,300,0
+./fddb/originalPics/2002/07/31/big/img_898.jpg 64,9,171,160,0 296,15,395,150,0
+./fddb/originalPics/2002/07/27/big/img_287.jpg 29,124,133,265,0 218,102,317,247,0 101,58,193,219,0
+./fddb/originalPics/2002/08/23/big/img_291.jpg 141,11,233,152,0
+./fddb/originalPics/2002/08/02/big/img_473.jpg 103,19,168,122,0
+./fddb/originalPics/2002/07/23/big/img_686.jpg 181,56,252,187,0
+./fddb/originalPics/2002/08/05/big/img_3814.jpg 136,13,261,211,0
+./fddb/originalPics/2002/08/20/big/img_539.jpg 115,58,207,201,0
+./fddb/originalPics/2002/08/13/big/img_748.jpg 58,31,144,172,0 231,31,273,89,0
+./fddb/originalPics/2002/07/30/big/img_214.jpg 117,56,213,211,0
+./fddb/originalPics/2002/08/13/big/img_1116.jpg 149,28,258,193,0 365,94,386,122,0
+./fddb/originalPics/2002/08/28/big/img_19392.jpg 89,39,210,243,0 214,43,333,243,0
+./fddb/originalPics/2002/07/29/big/img_538.jpg 108,18,233,216,0
+./fddb/originalPics/2002/08/25/big/img_510.jpg 87,32,203,214,0
+./fddb/originalPics/2002/08/20/big/img_915.jpg 56,41,222,301,0
+./fddb/originalPics/2002/08/13/big/img_890.jpg 98,23,168,132,0
+./fddb/originalPics/2003/01/15/big/img_717.jpg 27,211,124,355,0 175,102,268,244,0
+./fddb/originalPics/2003/01/13/big/img_817.jpg 157,28,243,149,0
+./fddb/originalPics/2002/07/23/big/img_425.jpg 277,70,397,250,0
+./fddb/originalPics/2003/01/15/big/img_524.jpg 80,139,177,283,0 213,156,299,275,0
+./fddb/originalPics/2002/08/27/big/img_19914.jpg 8,45,152,236,0
+./fddb/originalPics/2003/01/17/big/img_867.jpg 98,14,189,151,0 210,1,251,60,0
+./fddb/originalPics/2002/08/20/big/img_394.jpg 91,32,164,137,0 192,17,278,154,0
+./fddb/originalPics/2002/08/22/big/img_482.jpg 15,144,118,293,0 137,164,183,231,0 200,211,243,283,0 284,171,361,292,0 375,183,434,275,0
+./fddb/originalPics/2002/08/24/big/img_733.jpg 128,23,276,261,0
+./fddb/originalPics/2002/08/02/big/img_931.jpg 105,42,234,232,0
+./fddb/originalPics/2002/07/30/big/img_1201.jpg 59,76,98,132,0 143,16,210,116,0 272,89,337,178,0 230,95,260,136,0 361,53,404,115,0 320,61,356,112,0 210,75,238,120,0
+./fddb/originalPics/2002/08/24/big/img_119.jpg 136,25,218,138,0
+./fddb/originalPics/2002/07/24/big/img_820.jpg 71,52,193,231,0
+./fddb/originalPics/2002/08/26/big/img_483.jpg 96,33,228,234,0 255,39,362,215,0
+./fddb/originalPics/2003/01/15/big/img_827.jpg 69,40,191,223,0
+./fddb/originalPics/2002/07/31/big/img_3.jpg 97,29,213,222,0
+./fddb/originalPics/2003/01/15/big/img_598.jpg 132,77,216,206,0
+./fddb/originalPics/2002/08/01/big/img_2087.jpg 48,17,282,381,0
+./fddb/originalPics/2002/07/31/big/img_682.jpg 197,22,324,191,0
+./fddb/originalPics/2002/07/22/big/img_905.jpg 138,26,204,135,0 201,73,236,120,0 290,44,351,136,0 414,40,449,92,0
+./fddb/originalPics/2002/07/25/big/img_232.jpg 115,22,199,141,0
+./fddb/originalPics/2002/08/10/big/img_150.jpg 92,13,172,122,0 176,133,268,267,0
+./fddb/originalPics/2002/08/05/big/img_3233.jpg 196,76,343,313,0
+./fddb/originalPics/2002/08/21/big/img_357.jpg 38,29,232,288,0
+./fddb/originalPics/2002/08/01/big/img_1449.jpg 66,140,215,366,0
+./fddb/originalPics/2002/08/09/big/img_622.jpg 38,10,229,269,0
+./fddb/originalPics/2002/08/02/big/img_615.jpg 39,16,188,283,0 265,24,399,275,0
+./fddb/originalPics/2002/08/12/big/img_296.jpg 75,24,186,176,0 279,25,390,185,0 239,58,322,183,0
+./fddb/originalPics/2003/01/13/big/img_195.jpg 125,20,249,182,0
+./fddb/originalPics/2002/08/13/big/img_619.jpg 101,101,173,211,0 262,99,346,215,0
+./fddb/originalPics/2002/08/22/big/img_554.jpg 38,24,229,300,0
+./fddb/originalPics/2002/07/29/big/img_342.jpg 11,98,114,246,0 137,23,215,146,0 292,117,355,218,0 370,18,431,116,0
+./fddb/originalPics/2003/01/15/big/img_637.jpg 110,128,217,308,0
+./fddb/originalPics/2002/08/07/big/img_1400.jpg 109,32,194,171,0
+./fddb/originalPics/2002/07/24/big/img_778.jpg 90,17,187,159,0
+./fddb/originalPics/2002/08/26/big/img_398.jpg 89,59,255,313,0
+./fddb/originalPics/2002/07/25/big/img_936.jpg 109,201,226,351,0
+./fddb/originalPics/2002/09/02/big/img_15728.jpg 237,7,423,281,0
+./fddb/originalPics/2002/08/21/big/img_677.jpg 127,23,192,125,0
+./fddb/originalPics/2002/07/23/big/img_477.jpg 19,8,156,228,0 241,30,392,233,0
+./fddb/originalPics/2002/08/22/big/img_693.jpg 140,18,260,189,0 255,40,380,248,0
+./fddb/originalPics/2002/07/29/big/img_142.jpg 35,51,109,157,0 174,78,237,171,0 337,12,411,113,0
+./fddb/originalPics/2002/07/21/big/img_202.jpg 153,18,207,108,0 225,27,269,115,0 419,109,443,142,0 37,38,64,79,0
+./fddb/originalPics/2002/07/19/big/img_534.jpg 155,54,308,281,0
+./fddb/originalPics/2002/08/22/big/img_468.jpg 136,18,257,206,0 333,18,438,173,0
+./fddb/originalPics/2002/07/30/big/img_15.jpg 195,26,263,130,0
+./fddb/originalPics/2002/08/09/big/img_302.jpg 91,49,241,252,0
+./fddb/originalPics/2002/08/04/big/img_470.jpg 169,123,231,228,0
+./fddb/originalPics/2002/08/24/big/img_71.jpg 92,7,186,158,0
+./fddb/originalPics/2002/08/21/big/img_448.jpg 85,9,232,248,0
+./fddb/originalPics/2003/01/17/big/img_789.jpg 236,2,330,119,0
+./fddb/originalPics/2003/01/13/big/img_884.jpg 108,94,206,230,0 167,39,271,212,0
+./fddb/originalPics/2002/07/25/big/img_1051.jpg 83,29,244,277,0 6,177,76,291,0 211,129,324,287,0
+./fddb/originalPics/2002/07/24/big/img_171.jpg 107,11,201,159,0
+./fddb/originalPics/2002/08/21/big/img_428.jpg 9,17,73,128,0 202,79,266,190,0 362,32,430,139,0
+./fddb/originalPics/2002/08/30/big/img_18525.jpg 134,20,210,138,0 18,112,41,144,0 233,110,260,146,0
+./fddb/originalPics/2002/07/19/big/img_445.jpg 83,30,176,189,0
+./fddb/originalPics/2003/01/15/big/img_239.jpg 114,13,212,180,0
+./fddb/originalPics/2002/07/31/big/img_377.jpg 64,45,134,145,0 360,31,432,134,0
+./fddb/originalPics/2002/08/22/big/img_744.jpg 85,65,147,158,0 315,95,379,191,0
+./fddb/originalPics/2002/08/20/big/img_888.jpg 199,50,284,166,0
+./fddb/originalPics/2002/07/27/big/img_861.jpg 85,42,251,321,0
+./fddb/originalPics/2002/08/18/big/img_603.jpg 48,22,306,386,0
+./fddb/originalPics/2002/08/23/big/img_219.jpg 282,54,365,169,0 90,21,188,186,0 161,64,218,139,0 205,97,248,149,0 244,68,295,144,0
+./fddb/originalPics/2003/01/16/big/img_491.jpg 257,15,351,162,0
+./fddb/originalPics/2003/01/15/big/img_475.jpg 79,65,160,187,0 201,28,287,170,0
+./fddb/originalPics/2002/08/13/big/img_1050.jpg 245,162,314,267,0
+./fddb/originalPics/2002/08/07/big/img_1209.jpg 73,25,173,161,0 184,65,289,209,0
+./fddb/originalPics/2002/07/20/big/img_610.jpg 56,153,143,278,0
+./fddb/originalPics/2002/08/21/big/img_399.jpg 83,27,145,116,0 203,72,267,167,0
+./fddb/originalPics/2002/08/04/big/img_390.jpg 216,44,319,198,0
+./fddb/originalPics/2002/08/19/big/img_338.jpg 88,19,168,159,0 83,214,168,364,0 271,13,356,166,0 262,204,357,369,0
+./fddb/originalPics/2003/01/14/big/img_58.jpg 118,18,182,122,0
+./fddb/originalPics/2002/07/27/big/img_970.jpg 97,13,186,134,0 304,15,391,146,0
+./fddb/originalPics/2002/08/29/big/img_18914.jpg 37,27,94,127,0 149,40,209,140,0 245,50,311,156,0 347,21,416,125,0
+./fddb/originalPics/2003/01/01/big/img_136.jpg 115,26,179,121,0
+./fddb/originalPics/2002/07/21/big/img_390.jpg 115,19,193,125,0 329,46,406,161,0 2,49,21,78,0 20,5,37,28,0 49,50,62,71,0 61,55,74,76,0 36,111,56,141,0 10,177,32,207,0 258,120,277,146,0 298,167,325,206,0 291,7,309,32,0 325,128,343,151,0 426,72,447,101,0 223,15,240,39,0
+./fddb/originalPics/2002/07/23/big/img_249.jpg 66,9,269,317,0
+./fddb/originalPics/2002/08/26/big/img_534.jpg 103,22,222,195,0
+./fddb/originalPics/2003/01/13/big/img_240.jpg 44,132,138,278,0
+./fddb/originalPics/2002/07/19/big/img_828.jpg 302,28,361,117,0 68,32,129,117,0
+./fddb/originalPics/2002/07/23/big/img_423.jpg 34,8,275,402,0
+./fddb/originalPics/2002/07/31/big/img_108.jpg 63,7,134,114,0
+./fddb/originalPics/2002/07/27/big/img_1069.jpg 194,27,265,133,0 328,7,403,119,0 291,46,345,121,0 150,57,184,107,0 251,64,295,123,0
+./fddb/originalPics/2003/01/17/big/img_391.jpg 131,49,291,287,0
+./fddb/originalPics/2002/07/29/big/img_996.jpg 106,30,205,199,0
+./fddb/originalPics/2002/08/31/big/img_17756.jpg 101,89,231,281,0
+./fddb/originalPics/2002/07/29/big/img_580.jpg 42,29,120,149,0
+./fddb/originalPics/2002/07/30/big/img_342.jpg 73,42,281,372,0
+./fddb/originalPics/2002/09/02/big/img_15074.jpg 118,16,194,119,0
+./fddb/originalPics/2002/07/19/big/img_690.jpg 26,56,236,378,0
+./fddb/originalPics/2002/07/31/big/img_366.jpg 39,14,166,215,0 140,122,204,220,0 193,86,299,238,0 275,131,339,230,0
+./fddb/originalPics/2002/08/05/big/img_3790.jpg 139,21,300,283,0
+./fddb/originalPics/2002/08/25/big/img_580.jpg 16,7,114,140,0 154,154,283,333,0 316,48,408,194,0
+./fddb/originalPics/2002/08/07/big/img_1212.jpg 80,34,184,194,0
+./fddb/originalPics/2002/08/02/big/img_90.jpg 80,74,256,336,0
+./fddb/originalPics/2002/08/22/big/img_680.jpg 188,32,268,151,0 290,37,369,143,0
+./fddb/originalPics/2002/08/31/big/img_17214.jpg 126,27,228,194,0
+./fddb/originalPics/2002/08/01/big/img_1943.jpg 78,11,187,195,0
+./fddb/originalPics/2002/07/25/big/img_778.jpg 11,20,282,363,0
+./fddb/originalPics/2002/07/30/big/img_534.jpg 162,22,253,159,0
+./fddb/originalPics/2002/07/23/big/img_480.jpg 176,10,257,153,0
+./fddb/originalPics/2002/08/21/big/img_95.jpg 121,32,199,148,0
+./fddb/originalPics/2003/01/13/big/img_385.jpg 158,15,228,124,0
+./fddb/originalPics/2002/08/31/big/img_18074.jpg 49,31,217,315,0 258,51,388,287,0
+./fddb/originalPics/2002/08/18/big/img_95.jpg 70,141,268,416,0
+./fddb/originalPics/2002/08/28/big/img_19590.jpg 156,40,229,142,0
+./fddb/originalPics/2002/08/13/big/img_1146.jpg 75,85,170,230,0 15,178,51,233,0 142,34,260,213,0
+./fddb/originalPics/2003/01/17/big/img_608.jpg 74,26,205,208,0
+./fddb/originalPics/2002/08/10/big/img_734.jpg 165,62,241,173,0
+./fddb/originalPics/2002/09/01/big/img_16942.jpg 87,14,162,130,0 222,17,257,60,0 16,74,46,117,0 340,37,372,86,0 304,24,337,72,0
+./fddb/originalPics/2002/07/29/big/img_336.jpg 72,45,256,306,0
+./fddb/originalPics/2002/08/08/big/img_68.jpg 30,21,118,145,0 204,60,278,173,0 352,92,420,179,0
+./fddb/originalPics/2002/08/02/big/img_838.jpg 23,26,105,144,0 68,94,159,229,0 151,96,245,235,0 339,7,427,150,0 203,10,288,129,0
+./fddb/originalPics/2002/08/12/big/img_473.jpg 26,66,105,180,0 179,9,295,168,0 347,84,427,197,0
+./fddb/originalPics/2002/08/08/big/img_394.jpg 42,80,139,221,0 214,19,334,182,0
+./fddb/originalPics/2002/09/01/big/img_16670.jpg 84,15,133,90,0 266,20,353,152,0
+./fddb/originalPics/2002/09/02/big/img_15551.jpg 168,48,281,209,0
+./fddb/originalPics/2002/07/19/big/img_552.jpg 78,58,228,293,0
+./fddb/originalPics/2002/09/02/big/img_15220.jpg 42,47,73,93,0
+./fddb/originalPics/2002/07/19/big/img_770.jpg 144,25,274,206,0
+./fddb/originalPics/2002/08/30/big/img_18315.jpg 57,31,250,325,0
+./fddb/originalPics/2002/08/21/big/img_869.jpg 190,190,331,397,0
+./fddb/originalPics/2002/07/29/big/img_275.jpg 76,7,165,152,0 291,85,372,213,0
+./fddb/originalPics/2002/07/24/big/img_808.jpg 206,21,274,120,0
+./fddb/originalPics/2002/07/19/big/img_90.jpg 94,31,237,245,0
+./fddb/originalPics/2002/07/19/big/img_854.jpg 126,34,209,155,0
+./fddb/originalPics/2002/07/29/big/img_71.jpg 95,38,151,121,0 1,214,53,282,0 308,18,355,92,0
+./fddb/originalPics/2002/08/14/big/img_115.jpg 105,22,167,139,0
+./fddb/originalPics/2002/08/29/big/img_18654.jpg 174,16,272,142,0
+./fddb/originalPics/2002/07/30/big/img_507.jpg 49,28,212,284,0
+./fddb/originalPics/2002/07/23/big/img_595.jpg 62,13,163,176,0 281,12,395,192,0
+./fddb/originalPics/2002/08/16/big/img_235.jpg 62,37,126,134,0 127,70,190,160,0 189,101,256,194,0 366,72,430,163,0
+./fddb/originalPics/2003/01/15/big/img_346.jpg 184,95,344,343,0 9,41,142,266,0
+./fddb/originalPics/2002/08/13/big/img_771.jpg 275,11,351,118,0
+./fddb/originalPics/2002/08/22/big/img_408.jpg 25,16,50,53,0 49,65,86,122,0 5,130,44,193,0 67,125,107,186,0 88,169,161,280,0 61,24,94,67,0 103,21,131,60,0 85,74,122,136,0 132,76,170,131,0 175,97,208,152,0 210,86,248,153,0 151,34,179,77,0 129,10,152,41,0 166,32,195,71,0 163,8,184,38,0 230,29,256,64,0 246,51,277,95,0 301,101,328,145,0 235,0,254,31,0 300,9,325,45,0 351,31,378,67,0 382,78,419,136,0 386,32,411,70,0 337,2,354,25,0
+./fddb/originalPics/2002/08/29/big/img_18955.jpg 213,42,392,306,0
+./fddb/originalPics/2002/09/01/big/img_16462.jpg 108,19,212,181,0
+./fddb/originalPics/2002/08/06/big/img_2285.jpg 84,43,213,275,0
+./fddb/originalPics/2002/08/28/big/img_19471.jpg 141,33,181,95,0 129,80,203,194,0 22,253,82,327,0 208,262,268,330,0
+./fddb/originalPics/2002/08/20/big/img_667.jpg 96,13,187,162,0
+./fddb/originalPics/2002/08/25/big/img_419.jpg 82,8,165,126,0 243,28,318,128,0
+./fddb/originalPics/2002/08/02/big/img_666.jpg 97,152,184,276,0 262,62,347,194,0
+./fddb/originalPics/2002/07/20/big/img_294.jpg 257,21,316,102,0
+./fddb/originalPics/2002/08/24/big/img_597.jpg 121,59,245,258,0 233,36,358,230,0
+./fddb/originalPics/2002/08/16/big/img_668.jpg 145,80,286,312,0
+./fddb/originalPics/2002/08/30/big/img_18384.jpg 86,3,250,240,0
+./fddb/originalPics/2003/01/14/big/img_333.jpg 85,38,237,291,0
+./fddb/originalPics/2002/08/30/big/img_18098.jpg 276,34,375,196,0
+./fddb/originalPics/2002/08/04/big/img_504.jpg 100,28,218,206,0
+./fddb/originalPics/2002/08/17/big/img_489.jpg 31,16,100,137,0
+./fddb/originalPics/2002/08/22/big/img_506.jpg 57,162,132,291,0
+./fddb/originalPics/2002/07/31/big/img_1017.jpg 162,11,220,100,0 292,66,355,157,0
+./fddb/originalPics/2002/08/07/big/img_1453.jpg 50,19,125,137,0 220,42,300,163,0
+./fddb/originalPics/2002/08/04/big/img_721.jpg 53,34,114,134,0 304,47,366,147,0
+./fddb/originalPics/2002/08/02/big/img_423.jpg 77,16,157,146,0
+./fddb/originalPics/2002/08/18/big/img_713.jpg 103,154,198,309,0
+./fddb/originalPics/2002/08/19/big/img_810.jpg 5,118,115,299,0 164,21,297,268,0 291,131,362,243,0
+./fddb/originalPics/2002/08/11/big/img_591.jpg 184,38,355,285,0
+./fddb/originalPics/2002/08/02/big/img_1001.jpg 54,36,232,346,0
+./fddb/originalPics/2002/07/31/big/img_636.jpg 82,83,127,158,0 172,32,229,115,0 335,15,420,143,0
+./fddb/originalPics/2002/07/19/big/img_300.jpg 107,66,171,168,0
+./fddb/originalPics/2002/08/26/big/img_600.jpg 16,97,112,241,0 91,193,194,362,0
+./fddb/originalPics/2002/08/30/big/img_18437.jpg 52,28,250,338,0
+./fddb/originalPics/2002/08/06/big/img_2736.jpg 139,28,238,189,0
+./fddb/originalPics/2002/08/15/big/img_616.jpg 25,29,128,199,0 123,28,221,184,0
+./fddb/originalPics/2002/08/16/big/img_758.jpg 46,55,219,317,0
+./fddb/originalPics/2002/07/29/big/img_1494.jpg 56,36,265,382,0
+./fddb/originalPics/2003/01/17/big/img_930.jpg 77,29,142,130,0
+./fddb/originalPics/2003/01/16/big/img_519.jpg 58,55,219,321,0
+./fddb/originalPics/2002/08/26/big/img_58.jpg 103,11,170,120,0
+./fddb/originalPics/2002/08/24/big/img_635.jpg 115,21,251,208,0
+./fddb/originalPics/2002/08/13/big/img_805.jpg 96,21,258,288,0
+./fddb/originalPics/2002/08/30/big/img_18395.jpg 86,59,192,231,0 178,193,260,286,0 219,82,255,132,0
+./fddb/originalPics/2002/07/22/big/img_342.jpg 29,19,102,133,0 99,54,170,152,0 284,48,358,164,0 339,89,412,193,0 162,34,240,157,0 245,118,306,200,0
+./fddb/originalPics/2002/08/29/big/img_18777.jpg 72,44,191,230,0
+./fddb/originalPics/2002/08/29/big/img_18733.jpg 51,132,124,244,0 414,219,442,263,0
+./fddb/originalPics/2002/08/03/big/img_251.jpg 254,39,303,113,0
+./fddb/originalPics/2002/07/20/big/img_666.jpg 103,40,210,206,0
+./fddb/originalPics/2002/07/19/big/img_269.jpg 56,55,158,175,0 227,55,266,107,0 352,119,393,171,0
+./fddb/originalPics/2002/08/13/big/img_565.jpg 136,17,218,163,0
+./fddb/originalPics/2002/07/29/big/img_1370.jpg 99,29,196,175,0
+./fddb/originalPics/2003/01/14/big/img_587.jpg 218,59,325,221,0
+./fddb/originalPics/2002/08/10/big/img_361.jpg 66,27,254,349,0
+./fddb/originalPics/2002/07/24/big/img_518.jpg 94,11,215,193,0 236,19,351,191,0
+./fddb/originalPics/2002/08/15/big/img_877.jpg 25,21,287,419,0
+./fddb/originalPics/2002/07/24/big/img_803.jpg 133,140,216,266,0
+./fddb/originalPics/2002/07/22/big/img_901.jpg 40,19,168,205,0 190,45,296,225,0
+./fddb/originalPics/2002/08/24/big/img_490.jpg 110,23,180,132,0
+./fddb/originalPics/2002/09/02/big/img_15994.jpg 62,21,202,246,0
+./fddb/originalPics/2002/08/10/big/img_520.jpg 47,17,290,366,0
+./fddb/originalPics/2002/08/26/big/img_738.jpg 127,281,219,407,0
+./fddb/originalPics/2002/07/23/big/img_808.jpg 109,1,228,206,0 300,108,345,176,0 359,117,410,200,0
+./fddb/originalPics/2002/08/19/big/img_373.jpg 77,23,244,321,0
+./fddb/originalPics/2002/08/16/big/img_973.jpg 6,27,168,288,0 256,333,283,400,0
+./fddb/originalPics/2002/08/15/big/img_996.jpg 126,49,210,177,0 236,12,314,129,0
+./fddb/originalPics/2002/07/26/big/img_891.jpg 172,176,236,270,0 58,213,125,306,0
+./fddb/originalPics/2002/08/10/big/img_562.jpg 78,27,287,317,0
+./fddb/originalPics/2003/01/13/big/img_347.jpg 38,43,126,190,0
+./fddb/originalPics/2003/01/17/big/img_943.jpg 81,34,253,278,0 227,22,368,214,0
+./fddb/originalPics/2003/01/01/big/img_336.jpg 107,22,203,160,0 275,36,352,142,0
+./fddb/originalPics/2002/07/31/big/img_30.jpg 128,32,229,172,0
+./fddb/originalPics/2002/07/25/big/img_529.jpg 232,66,354,246,0 20,6,39,33,0 85,11,104,40,0 125,1,146,32,0 244,9,262,35,0 64,49,108,116,0 351,8,365,27,0
+./fddb/originalPics/2002/08/06/big/img_2740.jpg 163,15,276,212,0 245,49,384,264,0
+./fddb/originalPics/2002/08/23/big/img_378.jpg 42,22,254,364,0
+./fddb/originalPics/2002/08/02/big/img_533.jpg 78,36,229,289,0
+./fddb/originalPics/2002/08/31/big/img_17702.jpg 81,20,199,178,0
+./fddb/originalPics/2002/08/14/big/img_661.jpg 55,16,254,340,0
+./fddb/originalPics/2002/08/16/big/img_707.jpg 117,17,228,183,0
+./fddb/originalPics/2002/09/02/big/img_15213.jpg 211,17,355,258,0
+./fddb/originalPics/2002/08/26/big/img_20146.jpg 85,200,189,340,0
+./fddb/originalPics/2002/08/01/big/img_1914.jpg 59,37,133,161,0 140,235,208,350,0
+./fddb/originalPics/2002/08/01/big/img_2160.jpg 141,24,241,217,0 105,230,130,270,0
+./fddb/originalPics/2002/08/24/big/img_775.jpg 117,31,213,178,0
+./fddb/originalPics/2002/08/16/big/img_407.jpg 209,73,394,344,0
+./fddb/originalPics/2002/08/08/big/img_163.jpg 72,74,134,169,0
+./fddb/originalPics/2002/08/21/big/img_177.jpg 226,29,330,208,0
+./fddb/originalPics/2002/09/02/big/img_15659.jpg 59,12,128,128,0 177,52,259,166,0 312,31,389,146,0 154,52,231,172,0
+./fddb/originalPics/2002/09/02/big/img_15774.jpg 90,23,197,180,0
+./fddb/originalPics/2002/08/30/big/img_18194.jpg 38,15,238,303,0
+./fddb/originalPics/2002/08/16/big/img_379.jpg 164,92,310,300,0
+./fddb/originalPics/2002/08/01/big/img_2175.jpg 87,108,291,416,0
+./fddb/originalPics/2002/09/02/big/img_15278.jpg 138,29,201,122,0
+./fddb/originalPics/2002/07/29/big/img_258.jpg 274,77,411,268,0
+./fddb/originalPics/2002/08/04/big/img_769.jpg 21,6,151,211,0 192,67,296,245,0
+./fddb/originalPics/2003/01/15/big/img_1213.jpg 59,14,125,107,0 255,14,319,106,0
+./fddb/originalPics/2002/07/19/big/img_141.jpg 152,35,217,145,0
+./fddb/originalPics/2003/01/13/big/img_717.jpg 163,12,242,126,0
+./fddb/originalPics/2002/08/19/big/img_350.jpg 26,15,109,149,0 23,205,114,354,0 178,9,256,146,0 316,12,412,162,0 178,192,275,342,0
+./fddb/originalPics/2002/07/22/big/img_813.jpg 132,44,202,158,0
+./fddb/originalPics/2002/08/04/big/img_571.jpg 160,20,267,191,0
+./fddb/originalPics/2002/08/14/big/img_662.jpg 135,46,233,178,0
+./fddb/originalPics/2002/07/30/big/img_410.jpg 100,23,182,154,0 219,134,239,168,0
+./fddb/originalPics/2002/08/09/big/img_591.jpg 31,34,240,346,0
+./fddb/originalPics/2002/08/27/big/img_20037.jpg 34,15,132,159,0 120,18,201,136,0 251,44,312,139,0 320,25,417,173,0
+./fddb/originalPics/2002/07/31/big/img_879.jpg 60,43,261,345,0
+./fddb/originalPics/2002/07/29/big/img_889.jpg 73,94,141,195,0 156,28,240,144,0
+./fddb/originalPics/2003/01/15/big/img_601.jpg 214,71,286,182,0 165,63,231,171,0 244,20,317,125,0
+./fddb/originalPics/2002/07/25/big/img_615.jpg 222,15,295,124,0 145,275,194,364,0 82,7,186,156,0
+./fddb/originalPics/2002/08/06/big/img_2932.jpg 86,43,229,245,0
+./fddb/originalPics/2002/09/02/big/img_15580.jpg 208,46,310,205,0
+./fddb/originalPics/2002/08/29/big/img_19025.jpg 75,10,215,206,0
+./fddb/originalPics/2002/08/25/big/img_199.jpg 71,67,160,198,0 170,13,258,157,0
+./fddb/originalPics/2002/08/05/big/img_3666.jpg 68,26,142,149,0 187,74,240,158,0 249,89,307,186,0 302,20,349,102,0 277,17,317,78,0 1,24,23,55,0 33,14,54,43,0 47,27,66,53,0 49,54,78,98,0 141,49,166,88,0 3,83,69,185,0 240,32,264,62,0 240,53,263,82,0 397,27,428,74,0
+./fddb/originalPics/2002/08/17/big/img_556.jpg 126,129,215,286,0
+./fddb/originalPics/2002/08/01/big/img_1453.jpg 235,24,338,178,0
+./fddb/originalPics/2002/07/25/big/img_435.jpg 74,69,174,220,0
+./fddb/originalPics/2002/08/17/big/img_78.jpg 103,33,216,242,0
+./fddb/originalPics/2002/07/30/big/img_491.jpg 64,50,201,255,0
+./fddb/originalPics/2002/08/27/big/img_19889.jpg 94,24,252,272,0
+./fddb/originalPics/2002/08/19/big/img_534.jpg 102,51,252,303,0
+./fddb/originalPics/2002/08/22/big/img_729.jpg 63,54,248,301,0
+./fddb/originalPics/2002/08/20/big/img_764.jpg 71,35,239,314,0
+./fddb/originalPics/2002/08/10/big/img_689.jpg 88,100,159,206,0
+./fddb/originalPics/2002/08/18/big/img_341.jpg 239,94,289,164,0
+./fddb/originalPics/2002/08/10/big/img_793.jpg 77,15,181,166,0
+./fddb/originalPics/2002/08/09/big/img_58.jpg 93,20,161,131,0
+./fddb/originalPics/2002/08/07/big/img_1552.jpg 237,35,319,182,0
+./fddb/originalPics/2002/08/21/big/img_340.jpg 76,35,260,344,0
+./fddb/originalPics/2002/08/14/big/img_563.jpg 109,36,201,169,0
+./fddb/originalPics/2003/01/15/big/img_1183.jpg 28,51,155,254,0 213,37,338,219,0
+./fddb/originalPics/2002/08/31/big/img_17759.jpg 150,42,234,137,0
+./fddb/originalPics/2002/08/29/big/img_18707.jpg 68,55,140,157,0 252,46,340,176,0
+./fddb/originalPics/2002/07/26/big/img_644.jpg 312,16,396,143,0
+./fddb/originalPics/2002/07/25/big/img_138.jpg 59,28,276,362,0
+./fddb/originalPics/2003/01/14/big/img_538.jpg 148,98,213,191,0 201,20,294,142,0
+./fddb/originalPics/2002/07/29/big/img_1449.jpg 61,52,215,300,0
+./fddb/originalPics/2002/08/06/big/img_2600.jpg 64,20,146,154,0 275,57,362,180,0
+./fddb/originalPics/2002/07/29/big/img_383.jpg 70,65,241,332,0
+./fddb/originalPics/2003/01/16/big/img_1022.jpg 75,65,235,323,0
+./fddb/originalPics/2002/08/21/big/img_92.jpg 44,37,245,340,0
+./fddb/originalPics/2003/01/15/big/img_103.jpg 38,15,184,261,0
+./fddb/originalPics/2002/08/08/big/img_240.jpg 93,17,187,170,0
+./fddb/originalPics/2002/08/06/big/img_2520.jpg 7,8,54,83,0 138,2,182,67,0 206,20,255,93,0 276,6,318,73,0 345,5,389,71,0 240,99,313,211,0 319,102,396,220,0 339,174,428,298,0 70,51,140,151,0
+./fddb/originalPics/2002/07/31/big/img_908.jpg 112,77,214,226,0
+./fddb/originalPics/2002/08/01/big/img_1530.jpg 102,32,244,269,0
+./fddb/originalPics/2002/08/23/big/img_385.jpg 120,274,193,378,0
+./fddb/originalPics/2002/08/07/big/img_1664.jpg 53,52,253,343,0
+./fddb/originalPics/2002/07/22/big/img_416.jpg 66,12,144,131,0
+./fddb/originalPics/2002/08/08/big/img_625.jpg 252,13,375,201,0
+./fddb/originalPics/2002/08/17/big/img_240.jpg 108,8,129,36,0 113,43,183,156,0
+./fddb/originalPics/2002/07/31/big/img_801.jpg 13,18,104,159,0 137,27,240,192,0 256,60,342,190,0
+./fddb/originalPics/2003/01/15/big/img_1123.jpg 183,21,252,124,0
+./fddb/originalPics/2002/08/06/big/img_2378.jpg 123,51,199,148,0 333,59,404,166,0
+./fddb/originalPics/2003/01/14/big/img_37.jpg 21,205,119,339,0 150,193,269,353,0
+./fddb/originalPics/2002/08/02/big/img_1017.jpg 9,136,68,213,0 171,14,274,160,0 285,43,346,132,0
+./fddb/originalPics/2003/01/13/big/img_791.jpg 32,172,114,292,0
+./fddb/originalPics/2002/08/05/big/img_3450.jpg 75,110,143,203,0 198,17,290,151,0
+./fddb/originalPics/2002/08/18/big/img_47.jpg 304,7,383,138,0 143,59,159,83,0
+./fddb/originalPics/2002/08/18/big/img_188.jpg 170,41,247,177,0
+./fddb/originalPics/2002/07/28/big/img_243.jpg 52,104,193,300,0
+./fddb/originalPics/2002/07/23/big/img_372.jpg 133,11,229,171,0
+./fddb/originalPics/2002/08/03/big/img_151.jpg 51,278,135,395,0 177,34,271,159,0 331,6,398,102,0
+./fddb/originalPics/2002/08/18/big/img_575.jpg 105,17,216,216,0
+./fddb/originalPics/2002/08/27/big/img_19690.jpg 84,20,280,313,0
+./fddb/originalPics/2003/01/14/big/img_511.jpg 123,49,188,149,0 253,21,314,117,0
+./fddb/originalPics/2002/08/07/big/img_1667.jpg 87,39,173,173,0
+./fddb/originalPics/2002/07/25/big/img_414.jpg 43,13,173,189,0 194,72,313,238,0
+./fddb/originalPics/2002/07/27/big/img_382.jpg 191,75,294,233,0
+./fddb/originalPics/2002/07/31/big/img_543.jpg 53,34,148,193,0
+./fddb/originalPics/2002/07/27/big/img_1006.jpg 62,99,225,322,0
+./fddb/originalPics/2002/07/19/big/img_135.jpg 68,69,164,226,0 231,17,313,151,0
+./fddb/originalPics/2002/08/31/big/img_17890.jpg 118,161,238,329,0
+./fddb/originalPics/2002/08/15/big/img_700.jpg 61,71,112,146,0
+./fddb/originalPics/2002/08/28/big/img_19448.jpg 56,34,120,142,0 197,27,263,127,0 377,49,434,147,0
+./fddb/originalPics/2002/09/02/big/img_15093.jpg 83,96,166,236,0
+./fddb/originalPics/2002/07/23/big/img_893.jpg 102,12,217,202,0
+./fddb/originalPics/2002/08/04/big/img_343.jpg 179,57,267,196,0
+./fddb/originalPics/2002/08/26/big/img_188.jpg 120,64,212,206,0 228,140,281,220,0 268,147,324,214,0 293,104,334,164,0
+./fddb/originalPics/2002/08/25/big/img_155.jpg 201,104,299,233,0 45,35,127,158,0
+./fddb/originalPics/2002/07/19/big/img_582.jpg 143,14,260,183,0 58,114,135,239,0
+./fddb/originalPics/2002/07/29/big/img_190.jpg 71,34,222,280,0
+./fddb/originalPics/2002/09/01/big/img_16541.jpg 53,19,124,135,0 158,48,212,127,0 288,54,346,138,0 376,34,447,135,0
+./fddb/originalPics/2002/09/01/big/img_16456.jpg 103,22,224,206,0
+./fddb/originalPics/2002/07/30/big/img_852.jpg 63,54,271,403,0
+./fddb/originalPics/2002/07/25/big/img_15.jpg 35,62,104,171,0 169,15,248,121,0 341,45,426,163,0 225,59,273,131,0
+./fddb/originalPics/2003/01/15/big/img_841.jpg 117,91,188,195,0
+./fddb/originalPics/2002/08/06/big/img_2426.jpg 51,22,222,267,0
+./fddb/originalPics/2002/08/27/big/img_19820.jpg 199,21,291,152,0
+./fddb/originalPics/2002/08/02/big/img_523.jpg 78,30,226,268,0
+./fddb/originalPics/2002/08/28/big/img_19147.jpg 164,19,252,157,0
+./fddb/originalPics/2003/01/17/big/img_24.jpg 17,33,209,338,0
+./fddb/originalPics/2002/08/09/big/img_474.jpg 193,22,285,164,0
+./fddb/originalPics/2002/07/26/big/img_402.jpg 104,15,176,122,0 285,4,355,110,0
+./fddb/originalPics/2002/08/28/big/img_19458.jpg 217,16,351,218,0
+./fddb/originalPics/2002/07/20/big/img_148.jpg 110,34,185,147,0
+./fddb/originalPics/2002/07/31/big/img_750.jpg 31,27,166,261,0 165,41,296,238,0 246,27,321,136,0
+./fddb/originalPics/2002/08/10/big/img_252.jpg 97,17,162,111,0 306,20,367,118,0 236,87,275,142,0 2,50,49,117,0 196,121,236,169,0
+./fddb/originalPics/2002/08/06/big/img_2659.jpg 211,17,326,201,0
+./fddb/originalPics/2002/07/25/big/img_957.jpg 0,2,99,149,0 26,250,110,332,0 121,53,264,259,0
+./fddb/originalPics/2002/07/25/big/img_668.jpg 139,22,220,157,0
+./fddb/originalPics/2003/01/14/big/img_1022.jpg 96,23,185,174,0
+./fddb/originalPics/2002/08/16/big/img_728.jpg 59,30,125,125,0 276,14,346,124,0
+./fddb/originalPics/2002/08/10/big/img_693.jpg 55,14,264,320,0
+./fddb/originalPics/2002/08/15/big/img_505.jpg 143,7,222,132,0
+./fddb/originalPics/2002/07/30/big/img_1019.jpg 78,4,150,117,0 188,4,262,111,0 300,7,371,111,0 22,154,93,257,0 131,149,205,254,0 248,152,315,259,0 356,153,429,255,0
+./fddb/originalPics/2002/08/04/big/img_407.jpg 28,139,74,206,0 111,18,223,190,0 330,287,391,370,0
+./fddb/originalPics/2002/08/08/big/img_259.jpg 109,47,201,170,0 169,70,239,172,0 241,16,329,147,0
+./fddb/originalPics/2002/08/11/big/img_258.jpg 160,48,231,164,0 264,402,287,438,0 336,397,363,438,0 282,350,305,385,0 17,247,39,278,0 349,114,370,140,0
+./fddb/originalPics/2002/08/26/big/img_365.jpg 77,19,157,137,0
+./fddb/originalPics/2002/08/01/big/img_1627.jpg 113,94,191,217,0 172,45,253,174,0
+./fddb/originalPics/2002/08/06/big/img_2381.jpg 178,105,306,298,0
+./fddb/originalPics/2003/01/01/big/img_176.jpg 123,19,193,133,0
+./fddb/originalPics/2002/08/09/big/img_224.jpg 192,30,267,128,0 140,136,174,185,0
+./fddb/originalPics/2002/07/21/big/img_665.jpg 114,35,207,184,0
+./fddb/originalPics/2003/01/13/big/img_508.jpg 115,23,215,176,0
+./fddb/originalPics/2002/07/29/big/img_1321.jpg 113,99,187,218,0
+./fddb/originalPics/2002/07/22/big/img_399.jpg 92,286,191,398,0
+./fddb/originalPics/2002/07/26/big/img_658.jpg 52,147,133,244,0 287,23,382,163,0
+./fddb/originalPics/2002/08/21/big/img_516.jpg 39,65,101,158,0 89,129,137,201,0 238,60,309,161,0 319,69,380,161,0
+./fddb/originalPics/2002/07/30/big/img_745.jpg 99,5,174,120,0 269,39,350,156,0
+./fddb/originalPics/2002/08/13/big/img_564.jpg 4,12,75,123,0 89,42,187,180,0 262,40,353,178,0
+./fddb/originalPics/2002/08/18/big/img_448.jpg 176,70,241,176,0
+./fddb/originalPics/2002/07/29/big/img_1069.jpg 123,45,213,176,0
+./fddb/originalPics/2002/08/06/big/img_2680.jpg 143,201,279,404,0
+./fddb/originalPics/2002/08/14/big/img_318.jpg 85,8,172,145,0
+./fddb/originalPics/2002/07/20/big/img_547.jpg 173,36,266,188,0
+./fddb/originalPics/2002/08/03/big/img_812.jpg 66,6,134,99,0 297,17,368,119,0
+./fddb/originalPics/2002/08/11/big/img_726.jpg 10,11,108,150,0 137,128,297,376,0
+./fddb/originalPics/2002/08/23/big/img_232.jpg 119,21,214,167,0
+./fddb/originalPics/2002/08/15/big/img_385.jpg 146,12,215,126,0 310,108,338,151,0 271,22,298,59,0 83,21,109,60,0
+./fddb/originalPics/2002/08/20/big/img_474.jpg 156,13,239,158,0
+./fddb/originalPics/2002/07/23/big/img_706.jpg 180,16,270,141,0
+./fddb/originalPics/2002/09/02/big/img_15183.jpg 68,62,122,140,0 204,17,293,175,0
+./fddb/originalPics/2002/08/21/big/img_39.jpg 101,18,187,144,0 12,37,143,253,0
+./fddb/originalPics/2002/08/31/big/img_17431.jpg 147,80,226,181,0
+./fddb/originalPics/2002/08/04/big/img_834.jpg 74,26,179,191,0
+./fddb/originalPics/2002/08/01/big/img_1411.jpg 68,15,228,273,0
+./fddb/originalPics/2002/07/31/big/img_167.jpg 241,13,327,149,0
+./fddb/originalPics/2002/07/23/big/img_9.jpg 141,21,329,288,0
+./fddb/originalPics/2002/07/30/big/img_587.jpg 89,43,283,281,0
+./fddb/originalPics/2002/09/02/big/img_15605.jpg 115,54,236,270,0 290,117,311,149,0
+./fddb/originalPics/2002/08/24/big/img_394.jpg 86,4,191,185,0 196,98,268,204,0
+./fddb/originalPics/2002/07/22/big/img_508.jpg 66,21,314,374,0
+./fddb/originalPics/2002/08/13/big/img_1010.jpg 107,22,196,152,0 189,34,280,173,0
+./fddb/originalPics/2002/08/17/big/img_948.jpg 69,75,217,296,0
+./fddb/originalPics/2002/07/29/big/img_835.jpg 108,14,263,222,0
+./fddb/originalPics/2002/08/14/big/img_227.jpg 71,21,237,298,0
+./fddb/originalPics/2002/08/31/big/img_17252.jpg 78,86,206,258,0
+./fddb/originalPics/2002/08/14/big/img_748.jpg 132,24,197,117,0 250,14,327,128,0 336,67,388,139,0 38,174,67,221,0
+./fddb/originalPics/2002/09/01/big/img_16225.jpg 134,48,197,149,0 17,259,41,292,0 312,213,337,251,0 226,206,251,242,0 242,145,268,183,0 7,118,30,147,0 54,48,76,78,0 26,132,52,167,0 279,78,300,111,0 47,174,69,205,0
+./fddb/originalPics/2003/01/16/big/img_743.jpg 144,18,272,222,0
+./fddb/originalPics/2003/01/15/big/img_550.jpg 102,33,232,237,0
+./fddb/originalPics/2002/08/02/big/img_669.jpg 171,55,251,183,0
+./fddb/originalPics/2002/08/04/big/img_81.jpg 260,12,415,240,0
+./fddb/originalPics/2002/07/23/big/img_772.jpg 29,46,208,322,0
+./fddb/originalPics/2002/08/13/big/img_493.jpg 134,20,255,210,0
+./fddb/originalPics/2003/01/14/big/img_445.jpg 175,20,273,179,0
+./fddb/originalPics/2002/08/04/big/img_657.jpg 68,11,229,258,0
+./fddb/originalPics/2002/07/30/big/img_453.jpg 35,27,224,316,0
+./fddb/originalPics/2002/07/22/big/img_363.jpg 92,43,291,327,0
+./fddb/originalPics/2003/01/17/big/img_700.jpg 42,46,128,172,0 245,15,326,145,0
+./fddb/originalPics/2002/08/19/big/img_674.jpg 95,8,156,105,0
+./fddb/originalPics/2002/08/22/big/img_636.jpg 81,147,179,313,0 126,15,218,155,0
+./fddb/originalPics/2002/07/19/big/img_843.jpg 58,43,160,188,0 224,15,287,102,0 326,36,434,179,0
+./fddb/originalPics/2003/01/14/big/img_224.jpg 88,121,148,209,0 47,14,73,51,0 102,18,127,50,0 31,70,61,108,0 39,92,68,131,0 96,56,123,95,0 31,168,58,205,0 47,135,78,178,0 147,158,175,195,0
+./fddb/originalPics/2002/08/15/big/img_685.jpg 179,18,285,195,0
+./fddb/originalPics/2002/07/25/big/img_92.jpg 293,15,368,127,0
+./fddb/originalPics/2002/08/16/big/img_273.jpg 68,47,270,307,0
+./fddb/originalPics/2002/08/05/big/img_3658.jpg 79,114,178,269,0 170,26,256,160,0 249,80,359,247,0
+./fddb/originalPics/2002/08/26/big/img_649.jpg 42,54,135,177,0 176,33,259,161,0 347,73,421,187,0
+./fddb/originalPics/2002/08/14/big/img_44.jpg 40,54,181,350,0 189,32,366,282,0
+./fddb/originalPics/2002/08/26/big/img_259.jpg 106,34,231,214,0 268,79,354,215,0 223,78,273,161,0
+./fddb/originalPics/2002/08/26/big/img_31.jpg 41,156,76,206,0 18,115,46,156,0 131,16,199,132,0 71,151,106,196,0
+./fddb/originalPics/2002/08/05/big/img_3541.jpg 93,20,152,102,0 216,78,267,145,0
+./fddb/originalPics/2002/09/01/big/img_16189.jpg 168,44,258,199,0
+./fddb/originalPics/2002/08/13/big/img_301.jpg 155,25,282,217,0
+./fddb/originalPics/2002/07/20/big/img_539.jpg 130,227,200,336,0
+./fddb/originalPics/2002/08/15/big/img_564.jpg 188,10,355,263,0
+./fddb/originalPics/2002/07/30/big/img_428.jpg 104,27,266,285,0
+./fddb/originalPics/2002/08/02/big/img_37.jpg 106,67,209,244,0
+./fddb/originalPics/2002/07/26/big/img_885.jpg 126,28,224,178,0 251,144,327,264,0
+./fddb/originalPics/2002/08/09/big/img_472.jpg 139,21,238,169,0
+./fddb/originalPics/2002/08/20/big/img_409.jpg 173,23,269,187,0
+./fddb/originalPics/2002/08/01/big/img_1684.jpg 114,12,179,110,0
+./fddb/originalPics/2002/08/08/big/img_115.jpg 50,13,192,282,0 161,112,278,284,0
+./fddb/originalPics/2002/08/21/big/img_637.jpg 62,34,182,245,0
+./fddb/originalPics/2003/01/17/big/img_601.jpg 57,16,241,309,0
+./fddb/originalPics/2002/07/24/big/img_801.jpg 234,1,342,175,0
+./fddb/originalPics/2002/08/20/big/img_411.jpg 56,32,149,168,0 198,28,304,173,0
+./fddb/originalPics/2002/08/09/big/img_425.jpg 114,67,215,224,0 193,30,289,197,0
+./fddb/originalPics/2002/08/06/big/img_2427.jpg 97,29,240,268,0
+./fddb/originalPics/2002/09/01/big/img_16136.jpg 5,98,76,204,0 122,160,177,254,0 181,38,244,142,0 233,70,302,182,0 341,82,403,184,0
+./fddb/originalPics/2002/08/20/big/img_575.jpg 58,29,235,281,0
+./fddb/originalPics/2002/08/22/big/img_778.jpg 120,43,190,156,0
+./fddb/originalPics/2002/07/19/big/img_630.jpg 118,102,237,288,0 228,127,362,326,0
+./fddb/originalPics/2002/08/23/big/img_754.jpg 22,23,148,193,0 288,22,418,195,0
+./fddb/originalPics/2002/08/23/big/img_311.jpg 127,61,254,286,0
+./fddb/originalPics/2002/08/24/big/img_296.jpg 143,20,223,143,0
+./fddb/originalPics/2002/07/26/big/img_207.jpg 270,138,348,260,0
+./fddb/originalPics/2002/08/01/big/img_1772.jpg 142,21,254,187,0
+./fddb/originalPics/2002/08/30/big/img_18103.jpg 72,47,263,333,0
+./fddb/originalPics/2002/08/26/big/img_276.jpg 118,38,256,264,0
+./fddb/originalPics/2002/08/14/big/img_1041.jpg 47,20,221,251,0
+./fddb/originalPics/2002/08/07/big/img_1669.jpg 49,46,257,349,0
+./fddb/originalPics/2002/08/16/big/img_1055.jpg 122,10,204,148,0
+./fddb/originalPics/2002/08/03/big/img_462.jpg 97,24,157,116,0 216,126,277,213,0
+./fddb/originalPics/2002/08/23/big/img_586.jpg 81,10,186,169,0 282,79,379,218,0
+./fddb/originalPics/2002/08/23/big/img_540.jpg 149,6,249,158,0 98,195,177,321,0 177,220,250,316,0
+./fddb/originalPics/2002/07/27/big/img_978.jpg 62,12,185,207,0
+./fddb/originalPics/2003/01/13/big/img_368.jpg 89,19,235,276,0
+./fddb/originalPics/2002/08/15/big/img_470.jpg 36,12,129,150,0 147,12,216,107,0 217,46,283,129,0 277,85,342,172,0 363,70,427,167,0
+./fddb/originalPics/2002/08/12/big/img_759.jpg 110,103,201,231,0
+./fddb/originalPics/2002/07/22/big/img_626.jpg 115,12,188,116,0 274,51,340,154,0
+./fddb/originalPics/2002/08/12/big/img_493.jpg 174,153,266,288,0 51,329,71,359,0
+./fddb/originalPics/2002/08/16/big/img_540.jpg 35,103,114,219,0 356,10,435,121,0
+./fddb/originalPics/2002/08/04/big/img_236.jpg 54,93,184,303,0 197,44,345,283,0
+./fddb/originalPics/2003/01/17/big/img_509.jpg 44,38,219,339,0
+./fddb/originalPics/2002/08/01/big/img_1818.jpg 126,148,214,277,0 233,179,298,280,0 132,8,190,118,0
+./fddb/originalPics/2002/08/17/big/img_340.jpg 56,10,135,130,0 169,40,202,92,0 201,54,235,105,0 262,48,293,92,0 311,31,347,82,0 346,25,432,166,0 246,36,269,72,0
+./fddb/originalPics/2002/07/29/big/img_606.jpg 170,75,242,189,0
+./fddb/originalPics/2003/01/16/big/img_83.jpg 97,50,278,318,0
+./fddb/originalPics/2002/08/07/big/img_1871.jpg 207,88,278,184,0
+./fddb/originalPics/2002/07/31/big/img_411.jpg 50,71,114,160,0 130,18,197,129,0 249,49,309,140,0
+./fddb/originalPics/2002/07/31/big/img_741.jpg 27,8,168,219,0 250,24,382,214,0
+./fddb/originalPics/2002/07/22/big/img_663.jpg 40,44,201,289,0 251,35,407,275,0
+./fddb/originalPics/2002/08/12/big/img_586.jpg 69,8,159,142,0 315,27,407,160,0
+./fddb/originalPics/2002/09/01/big/img_16408.jpg 192,124,298,283,0
+./fddb/originalPics/2002/08/13/big/img_705.jpg 79,59,194,236,0 227,99,328,252,0
+./fddb/originalPics/2002/07/22/big/img_722.jpg 86,10,147,101,0
+./fddb/originalPics/2002/07/29/big/img_228.jpg 154,16,267,197,0
+./fddb/originalPics/2002/08/16/big/img_699.jpg 29,26,236,323,0
+./fddb/originalPics/2003/01/15/big/img_372.jpg 128,47,194,159,0 244,72,276,115,0
+./fddb/originalPics/2002/08/06/big/img_2935.jpg 252,16,392,230,0
+./fddb/originalPics/2003/01/17/big/img_794.jpg 116,43,189,157,0 275,9,351,130,0
+./fddb/originalPics/2003/01/14/big/img_464.jpg 56,15,94,79,0 210,14,287,131,0 59,243,118,334,0 210,242,289,361,0
+./fddb/originalPics/2002/07/26/big/img_745.jpg 148,25,272,213,0
+./fddb/originalPics/2002/08/25/big/img_336.jpg 36,43,110,141,0 145,77,250,222,0 275,7,354,133,0
+./fddb/originalPics/2003/01/14/big/img_122.jpg 234,123,326,270,0
+./fddb/originalPics/2003/01/13/big/img_624.jpg 95,93,267,355,0
+./fddb/originalPics/2002/07/21/big/img_754.jpg 239,26,318,157,0
+./fddb/originalPics/2002/08/07/big/img_1630.jpg 33,30,229,303,0
+./fddb/originalPics/2002/07/22/big/img_309.jpg 88,16,156,124,0 318,30,392,135,0
+./fddb/originalPics/2002/07/26/big/img_998.jpg 86,18,166,132,0 293,56,364,163,0
+./fddb/originalPics/2002/08/27/big/img_19976.jpg 84,44,156,159,0 203,79,271,177,0
+./fddb/originalPics/2002/08/05/big/img_3375.jpg 69,26,326,428,0
+./fddb/originalPics/2002/07/24/big/img_539.jpg 20,58,117,184,0 244,33,329,184,0
+./fddb/originalPics/2002/07/28/big/img_465.jpg 74,100,154,222,0 226,37,302,147,0 361,80,407,144,0
+./fddb/originalPics/2002/08/12/big/img_445.jpg 279,7,419,188,0
+./fddb/originalPics/2002/08/23/big/img_705.jpg 95,22,261,291,0
+./fddb/originalPics/2002/07/25/big/img_561.jpg 362,24,425,133,0 258,31,332,142,0 133,27,215,156,0 50,37,148,194,0
+./fddb/originalPics/2002/07/25/big/img_1099.jpg 109,28,252,279,0
+./fddb/originalPics/2002/08/09/big/img_454.jpg 197,13,306,173,0
+./fddb/originalPics/2002/07/24/big/img_864.jpg 7,84,96,229,0 153,17,242,156,0
+./fddb/originalPics/2002/08/29/big/img_18670.jpg 73,21,232,249,0 250,19,397,239,0
+./fddb/originalPics/2003/01/15/big/img_489.jpg 86,11,144,110,0 139,95,198,188,0 219,35,256,93,0 27,68,71,132,0
+./fddb/originalPics/2002/08/01/big/img_2152.jpg 87,21,171,136,0 255,14,327,135,0 387,76,421,127,0
+./fddb/originalPics/2002/08/03/big/img_440.jpg 130,202,206,314,0 16,358,55,420,0
+./fddb/originalPics/2002/08/01/big/img_2043.jpg 171,20,308,237,0
+./fddb/originalPics/2003/01/01/big/img_588.jpg 167,21,257,163,0
+./fddb/originalPics/2002/08/14/big/img_325.jpg 201,146,286,282,0
+./fddb/originalPics/2003/01/15/big/img_638.jpg 39,40,196,272,0
+./fddb/originalPics/2002/09/02/big/img_15849.jpg 38,78,99,170,0 148,70,218,198,0 211,82,299,211,0
+./fddb/originalPics/2002/08/10/big/img_404.jpg 28,14,242,357,0
+./fddb/originalPics/2002/07/24/big/img_598.jpg 54,23,181,264,0
+./fddb/originalPics/2002/08/28/big/img_19245.jpg 70,20,286,357,0
+./fddb/originalPics/2002/07/31/big/img_922.jpg 160,34,227,130,0 220,115,258,172,0 254,133,274,165,0 306,102,372,195,0 345,71,397,145,0
+./fddb/originalPics/2002/08/23/big/img_407.jpg 55,27,236,355,0
+./fddb/originalPics/2002/08/07/big/img_1264.jpg 127,20,197,128,0
+./fddb/originalPics/2002/08/14/big/img_577.jpg 95,38,200,192,0
+./fddb/originalPics/2003/01/17/big/img_939.jpg 176,63,295,241,0
+./fddb/originalPics/2002/08/19/big/img_593.jpg 95,35,200,206,0
+./fddb/originalPics/2002/07/21/big/img_678.jpg 50,23,259,359,0
+./fddb/originalPics/2002/09/02/big/img_15275.jpg 181,44,302,235,0 119,318,169,389,0
+./fddb/originalPics/2002/08/29/big/img_19034.jpg 58,20,121,118,0 205,66,274,166,0 330,61,399,157,0
+./fddb/originalPics/2002/07/26/big/img_636.jpg 97,44,217,228,0
+./fddb/originalPics/2002/08/13/big/img_798.jpg 160,42,223,139,0
+./fddb/originalPics/2002/07/24/big/img_201.jpg 152,18,264,182,0
+./fddb/originalPics/2002/08/16/big/img_565.jpg 103,28,256,240,0
+./fddb/originalPics/2002/09/01/big/img_16708.jpg 113,235,206,368,0
+./fddb/originalPics/2002/08/23/big/img_543.jpg 105,13,183,124,0
+./fddb/originalPics/2002/08/12/big/img_311.jpg 166,28,307,232,0
+./fddb/originalPics/2002/07/26/big/img_248.jpg 127,70,216,200,0
+./fddb/originalPics/2002/09/01/big/img_16692.jpg 71,28,249,307,0
+./fddb/originalPics/2002/08/26/big/img_154.jpg 169,41,245,153,0
+./fddb/originalPics/2002/08/01/big/img_1656.jpg 17,38,180,277,0 253,12,434,283,0
+./fddb/originalPics/2002/08/28/big/img_19284.jpg 74,50,246,302,0
+./fddb/originalPics/2002/08/03/big/img_116.jpg 98,18,181,149,0 242,96,299,177,0
+./fddb/originalPics/2003/01/13/big/img_288.jpg 114,36,232,211,0
+./fddb/originalPics/2002/08/20/big/img_120.jpg 29,184,43,203,0 198,70,260,158,0 98,173,110,190,0
+./fddb/originalPics/2002/07/24/big/img_454.jpg 181,33,307,214,0
+./fddb/originalPics/2002/08/23/big/img_641.jpg 84,46,159,171,0 293,11,376,125,0
+./fddb/originalPics/2003/01/14/big/img_406.jpg 78,32,261,300,0
+./fddb/originalPics/2002/08/16/big/img_205.jpg 165,36,271,195,0
+./fddb/originalPics/2002/08/04/big/img_632.jpg 48,2,124,116,0 316,36,389,140,0
+./fddb/originalPics/2002/08/15/big/img_716.jpg 154,18,254,167,0
+./fddb/originalPics/2002/08/27/big/img_19838.jpg 254,159,384,349,0
+./fddb/originalPics/2002/09/02/big/img_15507.jpg 60,52,195,245,0
+./fddb/originalPics/2002/08/16/big/img_893.jpg 152,17,215,126,0
+./fddb/originalPics/2002/07/31/big/img_276.jpg 232,90,290,179,0 168,154,200,204,0
+./fddb/originalPics/2002/08/01/big/img_1648.jpg 117,42,249,242,0
+./fddb/originalPics/2003/01/16/big/img_16.jpg 195,9,304,158,0
+./fddb/originalPics/2002/08/25/big/img_566.jpg 91,13,175,139,0 286,127,314,169,0 13,126,41,161,0
+./fddb/originalPics/2002/08/08/big/img_233.jpg 93,57,279,355,0
+./fddb/originalPics/2002/07/29/big/img_483.jpg 145,17,216,135,0
+./fddb/originalPics/2002/07/28/big/img_281.jpg 63,88,93,128,0 86,124,120,167,0 136,175,213,284,0 113,266,190,381,0
+./fddb/originalPics/2002/08/21/big/img_898.jpg 109,29,174,138,0
+./fddb/originalPics/2002/08/18/big/img_49.jpg 81,20,290,313,0
+./fddb/originalPics/2002/07/22/big/img_570.jpg 58,42,221,309,0
+./fddb/originalPics/2003/01/16/big/img_679.jpg 175,112,308,320,0
+./fddb/originalPics/2002/08/08/big/img_46.jpg 74,26,322,389,0
+./fddb/originalPics/2002/08/29/big/img_19103.jpg 190,21,261,131,0 258,67,293,117,0 358,72,406,146,0
+./fddb/originalPics/2002/08/01/big/img_1504.jpg 87,69,173,200,0 183,26,261,158,0
+./fddb/originalPics/2003/01/17/big/img_535.jpg 125,12,209,136,0
+./fddb/originalPics/2002/07/19/big/img_158.jpg 124,22,237,182,0
+./fddb/originalPics/2002/08/06/big/img_2396.jpg 84,233,200,420,0
+./fddb/originalPics/2002/08/20/big/img_348.jpg 157,102,269,297,0
+./fddb/originalPics/2002/07/30/big/img_956.jpg 136,13,217,135,0
+./fddb/originalPics/2002/08/09/big/img_618.jpg 242,23,341,188,0
+./fddb/originalPics/2002/09/01/big/img_16352.jpg 151,133,284,306,0 129,10,177,83,0
+./fddb/originalPics/2002/09/01/big/img_16420.jpg 98,19,203,179,0
+./fddb/originalPics/2003/01/14/big/img_642.jpg 67,7,171,151,0
+./fddb/originalPics/2002/08/04/big/img_668.jpg 83,21,217,224,0
+./fddb/originalPics/2002/07/30/big/img_331.jpg 67,24,308,359,0
+./fddb/originalPics/2002/07/25/big/img_354.jpg 170,52,270,217,0
+./fddb/originalPics/2002/08/15/big/img_170.jpg 154,15,337,298,0
+./fddb/originalPics/2002/07/25/big/img_86.jpg 98,55,311,361,0
+./fddb/originalPics/2002/08/26/big/img_744.jpg 59,24,233,244,0
+./fddb/originalPics/2002/08/20/big/img_579.jpg 43,1,292,374,0
+./fddb/originalPics/2002/08/26/big/img_642.jpg 90,188,177,310,0
+./fddb/originalPics/2002/08/31/big/img_17938.jpg 144,14,252,170,0
+./fddb/originalPics/2002/07/23/big/img_607.jpg 148,20,203,117,0
+./fddb/originalPics/2002/07/21/big/img_76.jpg 50,64,237,370,0
+./fddb/originalPics/2002/08/19/big/img_298.jpg 88,28,249,293,0
+./fddb/originalPics/2002/08/17/big/img_1030.jpg 14,59,145,249,0 136,22,265,219,0
+./fddb/originalPics/2002/08/11/big/img_508.jpg 46,26,176,207,0
+./fddb/originalPics/2002/07/25/big/img_355.jpg 41,11,269,374,0
+./fddb/originalPics/2002/08/06/big/img_2119.jpg 160,15,308,252,0
+./fddb/originalPics/2003/01/14/big/img_495.jpg 36,48,151,209,0
+./fddb/originalPics/2002/08/07/big/img_1318.jpg 87,63,141,151,0 192,96,233,159,0 365,103,415,170,0
+./fddb/originalPics/2002/08/29/big/img_18897.jpg 71,26,183,194,0 256,46,282,88,0 195,54,211,74,0 163,51,193,93,0 292,41,317,73,0 358,54,396,100,0 388,46,413,78,0 420,64,441,96,0
+./fddb/originalPics/2002/08/04/big/img_811.jpg 237,11,334,161,0 350,106,437,224,0
+./fddb/originalPics/2003/01/14/big/img_592.jpg 63,18,225,263,0
+./fddb/originalPics/2002/08/26/big/img_212.jpg 101,12,308,278,0
+./fddb/originalPics/2002/09/01/big/img_16406.jpg 130,46,206,171,0 58,150,86,188,0 415,199,445,243,0 310,192,336,233,0 284,176,313,216,0 282,154,307,186,0 382,166,409,199,0 326,171,352,208,0 218,122,230,139,0 240,134,263,161,0 16,218,50,265,0 415,157,439,189,0 265,156,286,183,0 286,138,300,155,0 350,158,376,190,0 397,183,422,215,0 359,178,388,212,0 391,147,411,171,0 400,133,415,152,0 320,142,332,157,0 396,206,421,240,0
+./fddb/originalPics/2002/08/31/big/img_17425.jpg 124,73,220,234,0
+./fddb/originalPics/2002/07/26/big/img_242.jpg 62,39,185,227,0 247,20,317,117,0 0,7,38,65,0
+./fddb/originalPics/2002/08/19/big/img_576.jpg 180,158,273,309,0
+./fddb/originalPics/2002/08/21/big/img_266.jpg 144,23,229,145,0 308,191,338,233,0 327,129,352,166,0
+./fddb/originalPics/2002/08/09/big/img_287.jpg 83,4,218,204,0
+./fddb/originalPics/2003/01/14/big/img_432.jpg 8,30,82,129,0 209,18,288,138,0
+./fddb/originalPics/2003/01/17/big/img_934.jpg 120,44,287,309,0 212,37,389,275,0
+./fddb/originalPics/2002/07/20/big/img_318.jpg 95,33,211,207,0
+./fddb/originalPics/2002/08/13/big/img_776.jpg 52,40,182,248,0
+./fddb/originalPics/2002/08/30/big/img_18529.jpg 45,49,109,135,0 158,39,225,138,0
+./fddb/originalPics/2003/01/16/big/img_433.jpg 230,47,289,141,0
+./fddb/originalPics/2003/01/17/big/img_671.jpg 80,28,132,126,0 232,9,298,115,0
+./fddb/originalPics/2002/08/24/big/img_288.jpg 61,183,212,396,0 153,13,327,255,0
+./fddb/originalPics/2003/01/14/big/img_370.jpg 86,39,165,164,0
+./fddb/originalPics/2002/07/20/big/img_443.jpg 87,225,155,326,0
+./fddb/originalPics/2002/07/21/big/img_543.jpg 207,27,415,327,0
